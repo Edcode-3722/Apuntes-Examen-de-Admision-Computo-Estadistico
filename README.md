@@ -3,13 +3,13 @@ Apuntes para preparacion de examen de admision en Computo Estadistico en CIMAT M
 
 ## Estructura del repo
 
-1.  [Fundamentos Matematicos](#%EF%B8%8F-fundamentos-matemáticos)
+1.  # Fundamentos Matematicos
     * [Algebra Lineal](./Algebra_Lineal/README.md)
     * [Calculo Diferencial e Integral](./Calculo/README.md)
-2.  [Probabilidad y Estadistica](#-probabilidad-y-estadistica)
+2.  # Probabilidad y Estadistica
     * [Probabilidad](./Probabilidad/README.md)
     * [Inferencia Estadistica](./Estadistica/README.md)
-3.  [Computación](#-computación)
+3.  # Computación
     * [Programación (Python)](./Programacion/README.md)
     * [Estructura de Datos y Algoritmos](./Algoritmos/README.md)
 4.  [Recursos Adicionales](#-recursos-adicionales)
